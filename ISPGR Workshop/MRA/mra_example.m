@@ -18,7 +18,7 @@ y = x + randn(n,1);
     overlap);
 
 %% Section 2. Plotting data and performing statistial analysis of beta(s)
-
+figure(1)
 % DFA plot of X
 subplot(2,2,1)
 plot(logn(s, scale_ratio), logn(fsx, scale_ratio), '.', 'MarkerSize', 20)
@@ -135,7 +135,7 @@ x = copv.vx;
 y = copv.vy;
 [s, fsx, fsy, f2xy, betaxy] = mra(x, y, order, mins, maxs, scale_ratio, ...
     overlap);
-
+figure(2)
 % DFA plot of X
 subplot(2,2,1)
 plot(logn(s, scale_ratio), logn(fsx, scale_ratio), '.', 'MarkerSize', 20)
