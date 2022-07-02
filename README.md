@@ -3,7 +3,7 @@
 Please download the folder titled ISPGR Workshop to gain access to the material required for our presentation (MATLAB Code, Powerpoint Slides)!
 
 !!!!!
-The following toolboxes are required to run our code,
+The following toolboxes are required to run our code:
 Statistics and Machine Learning Toolbox,
 Signal Processing Toolbox,
 Image Processing Toolbox
