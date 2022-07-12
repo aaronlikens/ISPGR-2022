@@ -3,7 +3,7 @@
 Survey
 https://forms.gle/kijebWuZuxv8wUS59
 
-Dr. Likes Slides
+Dr. Likens Slides
 https://youtu.be/hLQVUbhlKYY
 
 Please download the folder titled ISPGR Workshop to gain access to the material required for our presentation (MATLAB Code, Powerpoint Slides)!
